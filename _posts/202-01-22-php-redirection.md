@@ -9,6 +9,7 @@ tags: [dev, php, backend, webserver]
 운영하던 페이지를 다른 도메인으로 redirect 시키는 방법
 
 ```php
+<?php
 // 1. 이동할 URL 설정
 $redirect_url = "https://www.example.com";
 
