@@ -4,6 +4,13 @@ main:
     url: "/"
   - title: "Dev"
     url: "/categories/dev/"
+    children:
+      - title: "PHP"
+        url: "/categories/dev/php/"
+  - title: "Project"
+    url: "/categories/#project"
+  - title: "Note"
+    url: "/categories/#note"
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
