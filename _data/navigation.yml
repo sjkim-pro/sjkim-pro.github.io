@@ -8,7 +8,10 @@ main:
       - title: "PHP"
         url: "/categories/dev/php/"
   - title: "Project"
-    url: "/categories/#project"
+    url: "/categories/project/"
+    children:
+      - title: "Roblox"
+        url: "/categories/project/roblox/"
   - title: "Note"
     url: "/categories/#note"
   # - title: "Quick-Start Guide"
